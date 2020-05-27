@@ -1,5 +1,5 @@
 {
-  "name": "nodebb-theme-persona",
+  "name": "nodebb-theme-persona-valuemd",
   "version": "10.1.40",
   "nbbpm": {
     "compatibility": "^1.13.0"
@@ -8,7 +8,7 @@
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-theme-persona"
+    "url": "https://github.com/kimgold2010/nodebb-theme-persona-valuemd"
   },
   "keywords": [
     "nodebb",
